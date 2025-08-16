@@ -8,7 +8,7 @@
 ---
 
 ## About
-This mod has an API that other mod developers can use to easily create customizable progress bars for their own purposes.
+This mod has an API that other mod developers can use to easily interact with their YouTube live stream chat.
 
 ---
 
