@@ -10,5 +10,20 @@
 	"name": "YouTube Chat API",
 	"version": "1.0.0",
 	"developer": "Cheeseworks",
-	"description": "An API to interact with YouTube chat."
+	"description": "An API to interact with YouTube chat.",
+	"tags": [
+		"api",
+		"online"
+	],
+	"links": {
+		"source": "https://github.com/BlueWitherer/YouTubeChatAPI",
+		"homepage": "https://www.cheeseworks.gay/",
+		"community": "https://www.dsc.gg/cubic"
+	},
+	"api": {
+		"include": [
+			"incl/*.hpp"
+		]
+	},
+	"early-load": false
 }
