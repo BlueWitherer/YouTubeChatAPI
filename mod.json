@@ -1,0 +1,14 @@
+{
+	"geode": "4.7.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "cheeseworks.youtubechatapi",
+	"name": "YouTube Chat API",
+	"version": "1.0.0",
+	"developer": "Cheeseworks",
+	"description": "An API to interact with YouTube chat."
+}
